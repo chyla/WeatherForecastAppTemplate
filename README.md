@@ -1,6 +1,6 @@
 # Weather Forecast App Template
 
-Template for Weather Forecast App prepared for Python 3 trainings.
+Template for Weather Forecast App.
 
 ## Screenshots
 
