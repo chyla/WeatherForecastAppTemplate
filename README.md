@@ -1,6 +1,6 @@
 # Weather Forecast App Template
 
-Template for Weather Forecast App.
+This is the template of Weather Forecast App. You can train your Python 3 developer skills by adding new functionalities. The list of ideas can be found below.
 
 ## Screenshots
 
@@ -36,6 +36,18 @@ Run this app with Python 3:
 ```bash
 python3 main.py
 ```
+
+## Ideas for future development
+
+- Unittest your app (use TDD with unittest or pytest, mock, tox).
+- Use web service to receive list of supported cities and weather data (eg. https://openweathermap.org/).
+- Remember to catch errors and notify user about them in a nice way.
+- Use local storage to cache the data (eg. text file, database like SQLite).
+- Add forecast for next days.
+- Add tray icon.
+- Notify user about wrong weather conditions (eg. via Facebook, Twitter, SMS or simple desktop notification).
+- Prepare an installer for your app with Distutils (setup.py).
+- Prepare standalone version for Windows users (eg. py2exe, PyInstaller).
 
 ## Authors
 
