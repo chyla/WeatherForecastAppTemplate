@@ -45,7 +45,7 @@ python3 main.py
 - Use local storage to cache the data (eg. text file, database like SQLite).
 - Add forecast for next days.
 - Add tray icon.
-- Notify user about wrong weather conditions (eg. via Facebook, Twitter, SMS or simple desktop notification).
+- Notify user about bad weather conditions (eg. via Facebook, Twitter, SMS or simple desktop notification).
 - Prepare an installer for your app with Distutils (setup.py).
 - Prepare standalone version for Windows users (eg. py2exe, PyInstaller).
 
