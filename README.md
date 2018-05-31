@@ -43,6 +43,7 @@ python3 main.py
 - Use web service to receive list of supported cities and weather data (eg. https://openweathermap.org/).
 - Remember to catch errors and notify user about them in a nice way.
 - Use local storage to cache the data (eg. text file, database like SQLite).
+- Use threads to download weather forecast data and prevert GUI freezing.
 - Add forecast for next days.
 - Add tray icon.
 - Notify user about bad weather conditions (eg. via Facebook, Twitter, SMS or simple desktop notification).
