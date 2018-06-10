@@ -37,7 +37,7 @@ Run this app with Python 3:
 python3 main.py
 ```
 
-## Ideas for future development
+## Ideas for further development
 
 - Unittest your app (use TDD with unittest or pytest, mock, tox).
 - Use web service to receive list of supported cities and weather data (eg. https://openweathermap.org/).
